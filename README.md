@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various projects related to Machine Learning and Python.<br>🌱 I’m always eager to learn new technologies and tools to improve my craft.<br>🤖 I have a keen interest in developing intelligent systems and diving deep into data science.<br>💡 I enjoy solving complex problems and coming up with efficient solutions.<br>📚 Apart from coding, I like to read about advancements in AI and participate in tech communities.<br> Portfolio Link : [https://rounakkumar30.github.io/Portfolio/]
+🔭 I’m currently working on various projects related to Machine Learning and Python.<br>🌱 I’m always eager to learn new technologies and tools to improve my craft.<br>🤖 I have a keen interest in developing intelligent systems and diving deep into data science.<br>💡 I enjoy solving complex problems and coming up with efficient solutions.<br>📚 Apart from coding, I like to read about advancements in AI and participate in tech communities.<br> Portfolio Link : [![PortFolio](https://rounakkumar30.github.io/Portfolio/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rounak__kumar30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rounakkumar30) 
