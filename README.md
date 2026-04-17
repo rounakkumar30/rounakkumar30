@@ -85,16 +85,6 @@
 
 ---
 
-## 🏆 Top Contributions
-
-<div align="center">
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=rounakkumar30&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 ## 💡 Random Dev Wisdom
 
 <div align="center">
@@ -105,10 +95,18 @@
 
 ---
 
+## 🎯 Let's Connect!
+
 <div align="center">
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=rounakkumar30&icon=0&color=4)](https://visitcount.itsvg.in)
+I'm always open to:
+- 🤝 **Collaborating** on ML and Python projects
+- 💬 **Discussing** AI, Data Science, and emerging tech
+- 🚀 **Building** intelligent solutions together
+- 📖 **Sharing** knowledge and learning from others
 
-**Thanks for visiting my profile! Feel free to reach out and collaborate. 🚀**
+**Feel free to reach out and let's create something amazing! 🌟**
+
+---
 
 </div>
